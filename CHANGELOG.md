@@ -10,3 +10,6 @@ just changed the percentual of some .Wav
 
 -------*1.0.4*-------------
 reorganized package because i'm a dumbass
+
+------*1.0.5*---------
+ADDED * M O R E ( A  L O T ) ( M A N Y)* NEW SOUNDS
